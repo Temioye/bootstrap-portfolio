@@ -9,5 +9,10 @@
     width: 50px;
 }
 
+.card-title {
+    color: black;
+}
 
-
+#contact {
+  margin-top: 20px;  
+}
